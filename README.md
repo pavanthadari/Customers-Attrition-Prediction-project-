@@ -1,12 +1,4 @@
-# Customer-Attrition-Prediction
-
-# Details of the Project
-
-- **Host** : Kaggle
-- **Partner** : Kharagpur Data Analytics Group
-- **Duration of competition** : May 3, 2021 -> May 11, 2021
-- For more details visit [competition page](https://www.kaggle.com/c/customerattritionprediction/overview)
-
+Project: Customer-Attrition-Prediction
 # Dataset
 
 - Structure of Dataset is as follows:
@@ -29,7 +21,6 @@
 - Even though I experiemnted with many models and enselbling models, kfold cross validation, leaderboard score saturated at around 81% accuracy.
 - Following is one of the feature importance plot obtained from CatBoost training. [Use light model for better visualization of image :)]
 
-![image](https://user-images.githubusercontent.com/65073329/124431650-3c32f880-dd8e-11eb-9073-df3f62eafdc4.png)
 
 # models
 
